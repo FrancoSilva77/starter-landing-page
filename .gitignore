@@ -25,3 +25,6 @@ pnpm-debug.log*
 
 gulp/node_modules
 gulp/src/img
+gulp/gulpfile.js
+gulp/package.json
+gulp/package-lock.json
